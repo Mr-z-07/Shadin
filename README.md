@@ -1,4 +1,4 @@
 # Shadin
-Green University
+Green University.
 <br>
-Author Faruque
+Author - Faruque
